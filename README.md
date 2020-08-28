@@ -22,7 +22,7 @@ All the suggestions and bug reports are welcome.
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md).
+See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## License
 Copyright (c) 2018 Atlassian and others.
